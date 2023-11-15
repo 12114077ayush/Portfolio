@@ -1,0 +1,48 @@
+.studenttext {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 25px;
+
+
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        padding-bottom: 20px;
+        font-size: 50px;
+    }
+
+    .rows {
+        display: flex;
+        align-items: center;
+        padding-bottom: 40px;
+
+        .row1 {
+            position: absolute;
+        }
+
+        .percentage {
+            position: absolute;
+            right: 56px;
+        }
+
+
+
+        margin-bottom: 10px;
+    }
+
+    .student {
+        width: 70%;
+        height: 30px;
+        background: #eee;
+        border-radius: 5px;
+        overflow: hidden;
+        max-width: 1000px;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+}
