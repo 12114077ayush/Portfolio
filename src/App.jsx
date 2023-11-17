@@ -6,8 +6,8 @@ import Myskills from "./components/myskills/Myskills";
 import Navbar from "./components/navabar/Navbar";
 import Parallex from "./components/parallex/Parallex";
 import Portfolio from "./components/portfolio/Portfolio";
-// import StudentProgress from "./components/progressbar/StudentProgress";
-import Func from "./components/progressbar/func";
+import Func from "./components/progressbar/Func";
+
 
 const App = () => {
   return <div>
