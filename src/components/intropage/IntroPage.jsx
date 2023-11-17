@@ -40,7 +40,7 @@ const IntroPage = () => {
             </motion.div>
 
             <div className="imagecontainer">
-                <img className="hero" src="/profile.png" alt="" />
+                <img className="hero" src="./profile.png" alt="" />
             </div>
         </div>
     );
