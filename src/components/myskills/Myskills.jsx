@@ -28,7 +28,7 @@ const Myskills = () => {
             </motion.div>
             <motion.div className="titlecontainer" variants={variants}>
                 <motion.div className="title">
-                    <img src="/people.webp" alt="" />
+                    <img src="./people.webp" alt="" />
                     <h1> <motion.b whileHover={{ color: "orange" }}>Skills</motion.b> that I </h1>
                 </motion.div>
                 <motion.div className="title">
